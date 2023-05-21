@@ -6,4 +6,5 @@ Feel free to add your own customization.
 # Installation of Vimrc
 **To install in your device**
 
-* git clone https://github.com/mustafajamis/Vimrc.git
+* git clone https://github.com/mustafajamis/Vimrc.git ~/.vim
+* ln -s ~/.vim/.vimrc ~/.vimrc
