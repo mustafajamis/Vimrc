@@ -1,5 +1,14 @@
 "Mustafa Jamshidi Vimrc file GitHub
 "feel free to edit whatever ways you like
+
+"Helpfull Note
+"you can open terminal inside the vim :term  or :terminal 
+"to mentioned you can add your terminal by defualt but im not preferred to add here you can just remove the about (") and save 
+"terminal
+
+"set to split the window 
+vsplit
+set nowrap
 " mape to scape
 imap jj <Esc>
 "set number at left side of the  corner
