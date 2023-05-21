@@ -4,4 +4,4 @@
 # You can access to my .vimrc here
 Feel free to add your own customization.
 # Installation of Vimrc
--To install in your device-
+**To install in your device**
